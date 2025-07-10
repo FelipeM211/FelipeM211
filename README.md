@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me
 
-- 🔗 Linkedin: [beacons.ai/FelipeM211]([https://beacons.ai/FelipeM211](https://www.linkedin.com/in/felipe-b-murad-0a2a78356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 🔗 Linkedin: https://www.linkedin.com/in/felipe-b-murad-0a2a78356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 📧 Email: felipebmurad@gmail.com
 
 ---
